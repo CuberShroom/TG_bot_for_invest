@@ -22,8 +22,8 @@ from aiogram.types import Message
 
 
 # Данные для аутентификации
-USERNAME = 'mushroommonstr@gmail.com'
-PASSWORD = 'eBHDn7R7fYQ7ByM'
+USERNAME = ''
+PASSWORD = ''
 
 # Интервалы работы парсера
 START_TIME = dtime(8, 0)  # 8:00 UTC+3
