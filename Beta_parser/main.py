@@ -14,10 +14,11 @@ from aiogram.types import Message
 
 
 
+
 while True:
     async def main():
         global Check_torf, quantity, price, secid, updatetime
-        token = '7712132694:AAGqlice9PmZpI4SUzPq3m8ZVp_k7EWCs6Y'
+        token = ''
         chat_id = '@TestChannelForinvestBot'
         message = f"""
             🟢 #{secid}
