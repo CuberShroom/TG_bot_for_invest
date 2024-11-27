@@ -1,5 +1,6 @@
 # TG_bot_for_invest
-This is a Telegram bot that analyzes the value of company stocks and notifies users about abnormal volume and price movements.
+Это Телеграмм бот, который парсит информацию с Московской Биржи, а после отправляет сообщение в канал. 
+Данный бот рабочий, но не итоговый продукт, т.к не договорились с заказчиком 
 
 
 
